@@ -4,7 +4,7 @@ This recipe application lets users easily create their own recipe catalog. Users
 
 # Prerequisites
 
-- IntelliJ IDEA
+- IntelliJ / VS code
 - MySQL
 - Maven
 
