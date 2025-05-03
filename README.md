@@ -6,6 +6,7 @@ This recipe application lets users easily create their own recipe catalog. Users
 
 - IntelliJ IDEA
 - MySQL
+- Maven
 
 # Getting Started
 
