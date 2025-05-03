@@ -26,6 +26,8 @@ You can interact with the database using the MySQL CMD Line Client or use the co
 
 ## Running
 
-1. Using IntelliJ IDEA
+1. Using any IDE of your choice
    * In the Run/Debug configurations make sure it says `com.example.HelloSQL.expApplication` under Build and Run.
+   * In the same directory as the pom.xml run the command `mvn clean install`.
+   * Once the build passes, enter the command `mvn spring-boot:run`.
    * Run the Application and open http://localhost:8080/recipe_catalog.html
